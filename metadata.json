@@ -1,0 +1,6 @@
+{
+  "name": "FamPay Automated UPI Payment Gateway",
+  "description": "Self-hosted open-source UPI payment gateway powered by NPCI dynamic QR codes, Firebase Admin Firestore, and automated FamApp Gmail IMAP verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
